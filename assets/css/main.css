@@ -3943,8 +3943,6 @@ input, select, textarea {
 				}
 
 				#main > .posts > article .image {
-					height: 55px;
-					width: 20rem;
 					max-width: 25rem;
 					max-height: 20rem;
 					margin-left: auto;
